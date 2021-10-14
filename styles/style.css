@@ -36,7 +36,7 @@ a:hover{
     color: unset;
 }
 .home{
-    background: url('/img/home-spacegame.png');
+    background: url('https://sacha0659.github.io/img/home-spacegame.png');
     background-size: cover;
 }
 .menu-button{
